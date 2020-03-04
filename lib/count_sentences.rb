@@ -18,8 +18,6 @@ end
     end
   end
 
-  end
-
   def exclamation?
 
   end
