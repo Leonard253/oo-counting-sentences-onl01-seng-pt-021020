@@ -19,7 +19,7 @@ end
   end
 
   def exclamation?
-
+    
   end
 
   def count_sentences
